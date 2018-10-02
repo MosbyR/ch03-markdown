@@ -8,7 +8,7 @@ In the space below, make a three column table of the current courses
 you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
-| **Course Number | _Course Title_ | Instructor |
+| **Course Number** | _Course Title_ | Instructor |
 |---|---|---|
 | **Info 198D** | _Exploring Inform_ | Dowell P. Eugenio |
 | **Info 200A** | _Intell Foundations_ | Andrew J Ko |
